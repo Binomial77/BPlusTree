@@ -67,3 +67,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+main
+main.exe
+*.o
+*.out
+DBFiles/*.txt
+!DBFiles/.gitkeep
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
